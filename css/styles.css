@@ -2,13 +2,13 @@
   display: none;
 }
 img {
-  width: 75%;
+  height: 400px;
+  border-radius: 10px;
 }
 img:hover {
   border: 6px solid blue;
 }
 body {
-  /*background-color: #a1c1f4;*/
   background-image: url("../img/bg.jpg");
   background-size: cover;
   background-attachment: fixed;
@@ -17,6 +17,10 @@ h1{
   text-align: center;
   color: red;
   font-size: 45px;
+}
+h2 {
+  text-align: center;
+  color: white;
 }
 h1:hover{
   color:purple;
@@ -28,14 +32,20 @@ form {
   color: white;
 }
 .showDetails{
+  margin-left: 40s%;
   font-size: 40px;
   text-align: center;
   color: white;
+  background-color: #37393d;
+  width: 25%;
+  border-radius: 15px;
 
+}
+h5 {
+  color: white;
 }
 h4{
   font-size: 45px;
   text-align: center;
   color: white;
-  
 }
