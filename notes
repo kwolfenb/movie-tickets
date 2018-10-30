@@ -1,0 +1,15 @@
+movie ticket
+- movie title
+- age
+- time
+
+
+ticket price prototype
+function (
+age, time
+matinee = cheaper
+evening = more expensive
+discounts - children, seniors
+
+
+)
